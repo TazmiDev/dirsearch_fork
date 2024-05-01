@@ -1,2 +1,4 @@
 # dirsearch_fork
-dirsearch复刻
+This is Dirsearch fork.
+Added some fuzz dictionaries.
+Thank you.
